@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Extreme Superposition: Rogue Waves of Infinite Order and the Painlevé-III Hierarchy"
-authors: ["admin", "Liming Ling", "pdm"]
+authors: ["admin", "liming-ling", "peter-miller"]
 date: 2020-01-28T00:00:44-04:00
 doi: "10.1215/00127094-2019-0066"
 
@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Duke Mathematical Journal"
-publication_short: "__Duke Math. J.__"
+publication_short: "__Duke Mathematical Journal__"
 
 abstract: "We study the fundamental rogue wave solutions of the focusing nonlinear Schrödinger equation in the limit of large order. Using a recently proposed Riemann–Hilbert representation of the rogue wave solution of arbitrary order $k$, we establish the existence of a limiting profile of the rogue wave in the large-$k$ limit when the solution is viewed in appropriate rescaled variables capturing the near-field region where the solution has the largest amplitude. The limiting profile is a new particular solution of the focusing nonlinear Schrödinger equation in the rescaled variables—the rogue wave of infinite order—which also satisfies ordinary differential equations with respect to space and time. The spatial differential equations are identified with certain members of the Painlevé-III hierarchy. We compute the far-field asymptotic behavior of the near-field limit solution and compare the asymptotic formulas with the exact solution using numerical methods for solving Riemann–Hilbert problems. In a certain transitional region for the asymptotics, the near-field limit function is described by a specific globally defined tritronquée solution of the Painlevé-II equation. These properties lead us to regard the rogue wave of infinite order as a new special function."
 
@@ -58,7 +58,7 @@ url_video:
 image:
   # placement: 1
   caption: ""
-  focal_point: "Left"
+  focal_point: "Right"
   preview_only: false
   # alt_text: An optional description of the image for screen readers.
 

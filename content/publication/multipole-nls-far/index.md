@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Far-field asymtptocs for multiple-pole solitons in the large-order limit"
-authors: ["admin","dw","rjb"]
+authors: ["admin","dengshan-wang","robert-buckingham"]
 date: 2019-11-14T14:29:12-04:00
 doi: ""
 

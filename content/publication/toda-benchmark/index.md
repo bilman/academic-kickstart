@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Benchmarking Numerical Methods for Lattice Equations with the Toda Lattice"
-authors: ["admin","tt"]
+authors: ["admin","tom-trogdon"]
 date: 2018-10-27T14:31:04-04:00
 doi: "10.1016/j.apnum.2018.09.020"
 
@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Applied Numerical Mathematics"
-publication_short: "__Appl. Numer. Math.__"
+publication_short: "__Applied Numerical Mathematics__"
 
 abstract: "We compare the performance of well-known numerical time-stepping methods that are widely used to compute solutions of the doubly-infinite Fermi–Pasta–Ulam–Tsingou (FPUT) lattice equations. The methods are benchmarked according to (1) their accuracy in capturing the soliton peaks and (2) in capturing highly-oscillatory parts of the solutions of the Toda lattice resulting from a variety of initial data. The numerical inverse scattering transform method is used to compute a reference solution with high accuracy. We find that benchmarking a numerical method on pure-soliton initial data can lead one to overestimate the accuracy of the method."
 

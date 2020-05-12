@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Large-order asymptotics for multiple-pole solitons of the focusing nonlinear Schrödinger equation"
-authors: ["admin","rbj"]
+authors: ["admin","robert-buckingham"]
 date: 2019-04-16T14:28:55-04:00
 doi: "10.1007/s00332-019-09542-7"
 
@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Nonlinear Science"
-publication_short: "__J. Nonlinear Sci.__"
+publication_short: "__Journal of Nonlinear Science__"
 
 abstract: "We analyze the large-$n$ behavior of soliton solutions of the integrable focusing nonlinear Schrödinger equation with associated spectral data consisting of a single pair of conjugate poles of order $2n$. Starting from the zero background, we generate multiple-pole solitons by $n$-fold application of Darboux transformations. The resulting functions are encoded in a Riemann–Hilbert problem using the robust inverse-scattering transform method recently introduced by Bilman and Miller. For moderate values of n we solve the Riemann–Hilbert problem exactly. With appropriate scaling, the resulting plots of exact solutions reveal semiclassical-type behavior, including regions with high-frequency modulated waves and quiescent regions. We compute the boundary of the quiescent regions exactly and use the nonlinear steepest-descent method to prove the asymptotic limit of the solitons is zero in these regions. Finally, we study the behavior of the solitons in a scaled neighborhood of the central peak with amplitude proportional to $n$. We prove that in a local scaling the solitons converge to functions satisfying the second member of the Painlevé-III hierarchy in the sense of Sakka. This function is a generalization of a function recently identified by Suleimanov in the context of geometric optics and by Bilman, Ling, and Miller in the context of rogue-wave solutions to the focusing nonlinear Schrödinger equation."
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "On the evolution of scattering data under perturbations of the Toda lattice"
-authors: ["admin","in"]
+authors: ["admin","irina-nenciu"]
 date: 2016-09-01T14:31:34-04:00
 doi: "10.1016/j.physd.2016.03.017"
 
@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Physica D"
-publication_short: "__Phys. D__"
+publication_short: "__Physica D__"
 
 abstract: "We present the results of an analytical and numerical study of the long-time behavior for certain Fermi–Pasta–Ulam (FPU) lattices viewed as perturbations of the completely integrable Toda lattice. Our main tools are the direct and inverse scattering transforms for doubly-infinite Jacobi matrices, which are well-known to linearize the Toda flow. We focus in particular on the evolution of the associated scattering data under the perturbed vs. the unperturbed equations. We find that the eigenvalues present initially in the scattering data converge to new, slightly perturbed eigenvalues under the perturbed dynamics of the lattice equation. To these eigenvalues correspond solitary waves that emerge from the solitons in the initial data. We also find that new eigenvalues emerge from the continuous spectrum as the lattice system is let to evolve under the perturbed dynamics."
 

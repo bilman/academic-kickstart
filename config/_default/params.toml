@@ -22,7 +22,7 @@ font = "Classic"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "XL"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -106,9 +106,9 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+  {icon = "video", icon_pack = "fas", name = "Virtual WebEx Room", link = "https://ucincinnati.webex.com/meet/bilman"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/denizbilman"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:denizbilman"},
-  {icon = "video", icon_pack = "fas", name = "Virtual WebEx Room", link = "https://ucincinnati.webex.com/meet/bilman"}
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:denizbilman"}
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -213,7 +213,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]
