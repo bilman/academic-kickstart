@@ -7,9 +7,9 @@ layout: docs  # Do not modify.
 #   caption: ""
 #   image: "headers/header-courses.jpg"
 ---
-I am teaching [Math 1062: Calculus II]({{< ref "/courses/UC-Math1062" >}}) in Fall 2020. You may visit the course page below for more information.
+I am teaching [Math 1062: Calculus 2]({{< ref "/courses/UC-Math1062" >}}) in Fall 2020. You may visit the course page below for more information.
 
-* Meeting times and location: __TBA__
+* Meeting times and location: To be announced.
 * Office hours: [Find out about how you can contact]({{< ref "/#contact" >}})
 
-## Course Materials
+# Course Materials

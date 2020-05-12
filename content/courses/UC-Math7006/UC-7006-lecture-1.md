@@ -15,7 +15,7 @@ weight: 1
 ---
 ## Basic Definitions and Notation
 
-Let $u$ be a function of several variables $u(x_1,x_2,\ldots,x_n)$. We say $u$ is _smooth_ provided $u$ is infinitely differentiable with respect to all of the variables. We denote partial derivative of $u$ with respect to $x_k$ by
+Let $u$ be a function of several variables $u(x_1,x_2,\ldots,x_n)$. We say $u$ is **smooth** provided $u$ is infinitely differentiable with respect to all of the variables. We denote partial derivative of $u$ with respect to $x_k$ by
 $$
 u_{x_k} := \frac{\partial u}{\partial x_k}
 $$
@@ -90,6 +90,82 @@ A **partial differential equation** (PDE) is an equation involving a(n unknown) 
 * Korteweg-de Vries equation: $u_t + u u_x + u_{xxx} = 0$; third order.
 
 * Eikonal equation: $u_x^2 +u_y^2 = c^2$; first order.
+
+We express a general $k^{\text{th}}$ order PDE in the form
+$$
+F(x, u, Du, D^2 u, \ldots, D^k u)=0
+$$
+for some function $F$.
+
+### Classification
+
+A PDE of order $k$ is **linear** if it is of the form
+$$
+\sum_{|\alpha|\leq k} a_{\alpha}(x)D^{\alpha} u = 0.
+$$
+If $u_1$ and $u_2$ are two solutions of a linear PDE, then so is any linear combination $c_1 u + c_2 u_2$, $c_1$ and $c_2$ are constants.
+
+A PDE of order $k$ is **semilinear** if it is linear in the highest-order derivatives. In other words, if it is of the form:
+$$
+\left(\sum_{|\alpha|=k} D^{\alpha} u \right) + a_0 \left(D^{k-1}u, D^{k-2}u,\ldots, Du, u, x \right)=0.
+$$
+As you can see, the coefficients of the terms with the highest-order derivatives are allowed to depend only on $x$.
+
+A PDE of order $k$ is **quasilinear** if it is of the form
+
+$$
+\left(\sum_{|\alpha|=k} a_{\alpha}(D^{k-1}u,D^{k-2}u,\ldots, Du,u,x)D^{\alpha} u \right) + a_0 \left(D^{k-1}u, D^{k-2}u,\ldots, Du, u, x \right)=0
+$$
+but it is not semilinear. This means that in a quasilinear PDE, the highest-order derivatives $D^\alpha$, $|\alpha|=k$ are allowed to be multiplied by terms involving derivatives of lower orders.
+
+A PDE order $k$ is **fully nonlinear** if it is nonlinear but not quasilinear or semilinear. In this case the highest order derivatives of $u$ themselves appear nonlinearly in the PDE.
+
+#### Examples
+
+* Airy's equation: $u_t + u_{xxx} = 0$; linear.
+
+* Korteweg-de Vries equation: $u_t + u u_x + u_{xxx} = 0$; semilinear.
+
+* Inviscid Burger's equation: $u_t + uu_x=0$; quasilinear.
+
+* Eikonal equation: $u_x^2 +u_y^2 = c^2$; fully nonlinear.
+
+## Main Goals and Motivations in Studying PDEs
+
+Just like ordinary differential equations, a partial differential equation may have no solution, or infinitely many solutions.
+
+#### Example
+Consider $u_t - u_x =0$. $u(x,t):=0$ is a solution. So is $u(x,t):=C$ for any constant $C\in \mathbb{R}$. So is $u(x,t):= x+t$, and actually, so is $u(x,t):= C_1(x+t)+C_2$ for any constants $C_1,C_2\in\mathbb{R}$.
+
+We impose auxiliary conditions, e.g. initial conditions and boundary conditions, and pose a problem to pick a particular solution. For example,
+$$
+\left\\{
+  \begin{alignedat}{2}
+    u_t - u_t &= 0 \quad&& x\in\mathbb{R},~t>0\\\ u&=g \quad&& x\in\mathbb{R}
+  \end{alignedat}
+\right.
+$$
+where $g\colon \mathbb{R}\to \mathbb{R}$ is a given function. This is an initial-value problem.
+
+### Well-Posedness
+
+**Bad news:** Most PDEs cannot be solved in explicit form. Thus, most of the efforts are geared towards understanding existence, properties, and behavior of solutions.
+
+Given a PDE problem such as the initial value-problem above, we focus on three main issues:
+
+1. __Existence:__ the problem in fact has a solution.
+
+2. __Uniqueness:__ this solution is unique.
+
+3. __Continuous dependence on given data:__ the solution depends continuously on the data given under some appropriate norm.
+
+If a PDE problem has all of the properties 1, 2, and 3 above, we say that the problem is **well-posed**.
+
+### Notion of a Solution
+
+What do we mean by solution of a PDE in general? Ideally, a solution to a $k^{\text{th}}$-order PDE is required to have continuous partial derivatives of all orders up to and including order $k$. Such a solution is called a **classical** solution. But it is often the case that one is interested in functions that satisfy a weaker formulation of the PDE, that is, solutions that are not required to be differentiable. Such solutions, loosely speaking, are called **weak solutions**, **distributional solutions**, or **integral solutions**, depending on the context of the treatment. We will give a brief introduction to such solutions and work with them when we cover shock theory for scalar conservation laws.
+
+
 
 
 ## Homework

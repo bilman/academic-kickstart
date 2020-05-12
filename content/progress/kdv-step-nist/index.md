@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Numerical Inverse Scattering for the Korteweg-de Vries Equation with Discontinuous Step-like Data: Large-time"
-authors: ["admin","tt"]
+authors: ["admin","tom-trogdon"]
 date: 2020-03-16T14:29:44-04:00
 doi: ""
 

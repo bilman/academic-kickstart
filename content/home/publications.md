@@ -53,8 +53,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "headers/odeshot3.png"  # Name of image in `static/img/`.
+  # image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-You may also access a list of my publications here. Ple
+<!-- You may also access a list of my publications here. Ple -->
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->

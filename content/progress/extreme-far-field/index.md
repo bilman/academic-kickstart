@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "High-order Fundamental Rogue Waves in the Far-field Limit"
-authors: ["admin","pdm","alex-tovbis","liming-ling"]
+authors: ["admin","liming-ling","peter-miller","alex-tovbis"]
 date: 2020-03-16T14:29:44-04:00
 doi: ""
 

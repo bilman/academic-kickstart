@@ -12,11 +12,11 @@ superuser: false
 # Role/position
 role: Professor of Mathematics
 
-external_link: "http://www.math.lsa.umich.edu/~millerpd/"
+# external_link: "http://www.math.lsa.umich.edu/~millerpd/"
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Mathematics
+- name: University of Michigan
   url: "http://www.math.lsa.umich.edu/"
 
 

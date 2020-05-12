@@ -39,7 +39,7 @@ All the assignments are on [Canvas course website](https://uc.instructure.com/co
 Questions are highly encouraged --- if something is unclear during class, please ask, ask, ask, ask. **This course is for you**. Review your the notes after each class and make a list of points that are unclear. Ask me about these points either in class or office hours. **Do not postpone understanding something**.
 
 ## Homework Assignments
-These assignments are also provided at the end of relevant lectures in **Lecture Notes** posted on this website.
+These assignments are also provided at the end of relevant lecture notes posted on this website (see the menu in the left pane).
 
 * [Homework 1](https://www.dropbox.com/s/8qq67sf0l4jyuef/Math-7006-Sp20-HW1.pdf?dl=0)
 * [Homework 2](https://www.dropbox.com/s/366sn86lkdkyidp/Math-7006-Sp20-HW2.pdf?dl=0)

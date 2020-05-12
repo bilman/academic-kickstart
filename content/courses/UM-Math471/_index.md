@@ -70,7 +70,13 @@ Make the point above a habit. If you do not understand why a method, an algorith
 
 ## Lecture Notes
 
-From the menu on the left, you may find a (n incomplete) set of lecture notes written using Jupyter (see Jupyter) notebooks. The scientific computing software used in Math 471 was _MATLAB_. The notes provided here are just a proper subset of what is covered in class and they are meant to be supplementary only. The interactive features (if any) work with web browsers Safari, Firefox, and Google Chrome as of now. Other browsers were not tested.
+Below you may find a (n incomplete) set of lecture notes or codes written using Jupyter (see Jupyter) notebooks. The scientific computing software used in Math 471 was _MATLAB_. The notes provided here are just a proper subset of what is covered in class and they are meant to be supplementary only.
 
 
-{{% staticref "files/courses/um-471/471IVPs.html" "newtab" %}}Download my CV{{% /staticref %}}
+* {{% staticref "files/courses/um-471/471Lecture1.html" "newtab" %}}Convergence{{% /staticref %}}
+* {{% staticref "files/courses/um-471/471Lecture2.html" "newtab" %}}Floating point number system and the IEEE standard{{% /staticref %}}
+* {{% staticref "files/courses/um-471/471Lecture3.html" "newtab" %}}Floating point arithmetic and error propagation{{% /staticref %}}
+* {{% staticref "files/courses/um-471/471Lecture4.html" "newtab" %}}Rootfinding: Basis methods & Newton's Method{{% /staticref %}}
+* {{% staticref "files/courses/um-471/471Lecture5.html" "newtab" %}}Rootfinding: Fixed point iteration algorithms{{% /staticref %}}
+* {{% staticref "files/courses/um-471/471Chebyshev.html" "newtab" %}}Chebyshev interpolation{{% /staticref %}}
+* {{% staticref "files/courses/um-471/471IVPs.html" "newtab" %}}Initial-value problems for ordinary differential equations{{% /staticref %}}
