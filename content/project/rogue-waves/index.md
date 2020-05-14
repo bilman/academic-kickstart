@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Stability Properties of Rogue Waves and Asymptotics for Large-Order Coherent Structures"
-summary: "Analysis and prediction of rogue waves in context of a Cauchy initial value problem, asymptotic properties of large-order coherent structures such as 'high-order-pole' solitons appearing in nonlinear dispersive integrable PDEs."
+title: "Rogue Wave Formation and Asymptotics for Large-Order Coherent Structures"
+summary: "Analysis and prediction of rogue waves in context of a Cauchy initial value problem, asymptotic properties of large-order coherent structures such as 'high-order-pole' solitons appearing in nonlinear integrable wave models."
 authors: []
 tags: []
 categories: []
@@ -17,7 +17,11 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
+
+header:
+  image: ""
+  caption: ""
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

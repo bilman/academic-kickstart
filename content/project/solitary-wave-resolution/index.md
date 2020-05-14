@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Solitary Wave Resolution"
-summary: ""
+title: "Solitary Wave Resolution: Long-Time Asymptotics for Near-Integrable Systems"
+summary: "Long-time asymptotics for perturbations of integrable wave models that admit solitary wave solutions."
 authors: []
 tags: []
 categories: []
@@ -17,7 +17,11 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
+
+header:
+  image: "sol-resolution-thick.png"
+  caption: ""
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,3 +43,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+This project lies within a set of fundamental questions concerning the qualitative features of solutions to nonlinear Hamiltonian partial differential or difference equations (PDEs or P$\Delta$Es, respectively). It is well known that in these types of equations several different phenomena can appear over long times, among them blow-up, scattering to the free evolution, or the emergence of stable nonlinear structures, such as solitary waves and breather solutions. A detailed description of any such phenomenon often depends on the precise structure of the equation in question. However, there is the common belief, usually referred to as the **solitary wave resolution conjecture**, that (in the absence of finite time blow-up) generic solutions can be decomposed at large times into a sum of solitary waves plus a dispersive tail (i.e., radiation).
+
+For Hamiltonian equations that are **completely integrable**, the mechanism underlying this resolution (called **soliton-resolution** in this case) is rather well-understood, and can be rigorously obtained using the Deift-Zhou method of nonlinear steepest descent for oscillatory Riemann-Hilbert problems.
+
+## Goal
+
+To extend the analytical methods which utilize Riemann-Hilbert problem formulation of associated inverse scattering transforms to certain (non-integrable) perturbations of completely integrable PDEs or P∆Es which admits solitary wave solutions, and hence obtain rigorous long-time asymptotics for these non-integrable systems.
+
+This project involves collaboration with [Irina Nenciu](https://www.math.uic.edu/~nenciu/).

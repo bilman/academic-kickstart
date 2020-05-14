@@ -16,7 +16,7 @@ publishDate: 2020-05-07T14:29:52-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "__Communications in Mathematical Physics__"
+publication: "Communications in Mathematical Physics, __352__, 805--879, 2017"
 publication_short: "__Communications in Mathematical Physics__"
 
 abstract: "We present a method to compute the inverse scattering transform (IST) for the famed Toda lattice by solving the associated Riemann–Hilbert (RH) problem numerically. Deformations for the RH problem are incorporated so that the IST can be evaluated in $O(1)$ operations for arbitrary points in the $(n, t)$-domain, including short- and long-time regimes. No time-stepping is required to compute the solution because $(n, t)$ appear as parameters in the associated RH problem. The solution of the Toda lattice is computed in long-time asymptotic regions where the asymptotics are not known rigorously."

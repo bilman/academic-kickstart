@@ -16,7 +16,7 @@ publishDate: 2020-05-07T14:31:04-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Numerical Mathematics"
+publication: "Applied Numerical Mathematics, __141__, 19--35, 2019"
 publication_short: "__Applied Numerical Mathematics__"
 
 abstract: "We compare the performance of well-known numerical time-stepping methods that are widely used to compute solutions of the doubly-infinite Fermi–Pasta–Ulam–Tsingou (FPUT) lattice equations. The methods are benchmarked according to (1) their accuracy in capturing the soliton peaks and (2) in capturing highly-oscillatory parts of the solutions of the Toda lattice resulting from a variety of initial data. The numerical inverse scattering transform method is used to compute a reference solution with high accuracy. We find that benchmarking a numerical method on pure-soliton initial data can lead one to overestimate the accuracy of the method."

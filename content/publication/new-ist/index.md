@@ -16,7 +16,7 @@ publishDate: 2020-04-07T00:00:44-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Communications on Pure and Applied Mathematics"
+publication: "Communications on Pure and Applied Mathematics, __72__, 1722--1805, 2019"
 publication_short: "__Communications on Pure and Applied Mathematics__"
 
 abstract: "We propose a modification of the standard inverse scattering transform for the focusing nonlinear Schrödinger equation (also other equations by natural generalization) formulated with nonzero boundary conditions at infinity. The purpose is to deal with arbitrary‐order poles and potentially severe spectral singularities in a simple and unified way. As an application, we use the modified transform to place the Peregrine solution and related higher‐order 'rogue wave' solutions in an inverse‐scattering context for the first time. This allows one to directly study properties of these solutions such as their dynamical or structural stability, or their asymptotic behavior in the limit of high order. The modified transform method also allows rogue waves to be generated on top of other structures by elementary Darboux transformations rather than the generalized Darboux transformations in the literature or other related limit processes."

@@ -16,7 +16,7 @@ publishDate: 2018-10-22T14:29:44-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nonlinearity"
+publication: "Nonlinearity, __33__, 2211--2269, 2020"
 publication_short: "__Nonlinearity__"
 
 abstract: "We present a method to compute dispersive shock wave solutions of the Korteweg–de Vries equation that emerge from initial data with step-like boundary conditions at infinity. We derive two different Riemann–Hilbert problems associated with the inverse scattering transform for the classical Schrödinger operator with possibly discontinuous, step-like potentials and develop relevant theory to ensure unique solvability of these problems. We then numerically implement the Deift–Zhou method of nonlinear steepest descent to compute the solution of the Cauchy problem for small times and in two asymptotic regions. Our method applies to continuous and discontinuous initial data."

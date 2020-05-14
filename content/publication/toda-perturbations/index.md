@@ -16,7 +16,7 @@ publishDate: 2020-05-07T14:31:34-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physica D"
+publication: "Physica D, __330__, 1--16, 2016"
 publication_short: "__Physica D__"
 
 abstract: "We present the results of an analytical and numerical study of the long-time behavior for certain Fermi–Pasta–Ulam (FPU) lattices viewed as perturbations of the completely integrable Toda lattice. Our main tools are the direct and inverse scattering transforms for doubly-infinite Jacobi matrices, which are well-known to linearize the Toda flow. We focus in particular on the evolution of the associated scattering data under the perturbed vs. the unperturbed equations. We find that the eigenvalues present initially in the scattering data converge to new, slightly perturbed eigenvalues under the perturbed dynamics of the lattice equation. To these eigenvalues correspond solitary waves that emerge from the solitons in the initial data. We also find that new eigenvalues emerge from the continuous spectrum as the lattice system is let to evolve under the perturbed dynamics."
@@ -65,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["solitary-wave-resolution"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
