@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor of Mathematics
+role: Beijing Normal University
 
 # external_link: "http://www.math.lsa.umich.edu/~millerpd/"
 

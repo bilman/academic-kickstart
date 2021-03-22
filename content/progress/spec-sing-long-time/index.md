@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Long-time development of initial data with spectral singularities"
+title: "Long-Time Development of Initial Data With Spectral Singularities"
 authors: ["admin","bob-jenkins"]
-date: 2020-03-16T14:29:44-04:00
+date: 2020-01-16T14:29:44-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-03-22T14:29:44-04:00
+publishDate: 2020-01-22T14:29:44-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

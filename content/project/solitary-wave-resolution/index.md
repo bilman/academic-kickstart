@@ -6,7 +6,7 @@ summary: "Long-time asymptotics for perturbations of integrable wave models that
 authors: []
 tags: []
 categories: []
-date: 2020-05-07T20:22:05-04:00
+date: 2015-05-07T20:22:05-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,7 +20,7 @@ image:
   preview_only: true
 
 header:
-  image: "sol-resolution-thick.png"
+  image: "headers/sol-resolution-thick.png"
   caption: ""
 
 # Custom links (optional).
@@ -49,6 +49,6 @@ For Hamiltonian equations that are **completely integrable**, the mechanism unde
 
 ## Goal
 
-To extend the analytical methods which utilize Riemann-Hilbert problem formulation of associated inverse scattering transforms to certain (non-integrable) perturbations of completely integrable PDEs or P∆Es which admits solitary wave solutions, and hence obtain rigorous long-time asymptotics for these non-integrable systems.
+To extend the analytical methods which use Riemann-Hilbert problem formulation of associated inverse scattering transforms to certain (non-integrable) perturbations of completely integrable PDEs or P∆Es which admits solitary wave solutions, and hence obtain rigorous long-time asymptotics for these non-integrable systems.
 
 This project involves collaboration with [Irina Nenciu](https://www.math.uic.edu/~nenciu/).

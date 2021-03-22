@@ -19,7 +19,7 @@ In this lecture we gave a more theoretical consideration of systems of two first
 Please see the embedded Jupyter notebook below.
 
 <iframe
-      src="http://nbviewer.jupyter.org/url/homepages.uc.edu/~bilman/216notes/216Lecture10.ipynb?flush_cache=true"
+      src="https://nbviewer.jupyter.org/github/bilman/Math216ODE/blob/master/216Lecture10.ipynb?flush_cache=true"
       width="100%"
       height="1000px"
       style="border:none;">

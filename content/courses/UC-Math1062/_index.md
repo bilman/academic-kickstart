@@ -22,4 +22,4 @@ menu:
     weight: 1
 ---
 
-More information will be posted here as we get closer to the beginning of Fall 2020.
+Information and all the course materials are posted on [Canvas course page](https://uc.instructure.com/courses/1414428) during the semester Fall 2020.

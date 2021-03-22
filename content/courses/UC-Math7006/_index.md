@@ -41,11 +41,13 @@ Questions are highly encouraged --- if something is unclear during class, please
 ## Homework Assignments
 These assignments are also provided at the end of relevant lecture notes posted on this website (see the menu in the left pane).
 
-* [Homework 1](https://www.dropbox.com/s/8qq67sf0l4jyuef/Math-7006-Sp20-HW1.pdf?dl=0)
-* [Homework 2](https://www.dropbox.com/s/366sn86lkdkyidp/Math-7006-Sp20-HW2.pdf?dl=0)
-* [Homework 3](https://www.dropbox.com/s/03qqzpz3cd2d9hy/Math-7006-Sp20-HW3.pdf?dl=0)
-* [Homework 4](https://www.dropbox.com/s/p8oeih2zg88fd9j/Math-7006-Sp20-HW4.pdf?dl=0)
-* [Homework 5](https://www.dropbox.com/s/nit8dtvmtn64bly/Math-7006-Sp20-HW5.pdf?dl=0)
-* [Homework 6](https://www.dropbox.com/s/ltgbnkodozxg8h0/Math-7006-Sp20-HW6.pdf?dl=0)
-* [Homework 7](https://www.dropbox.com/s/2imfzjvqu294fuy/Math-7006-Sp20-HW7.pdf?dl=0)
-* [Homework 8](https://www.dropbox.com/s/aitiuj0c85hyv3j/Math-7006-Sp20-HW8.pdf?dl=0)
+* [Homework 1](https://www.dropbox.com/s/0h3eal4dvjvcv8r/Math-7006-Sp21-HW1.pdf?dl=0)
+* [Homework 2](https://www.dropbox.com/s/5r1rknxzimqun51/Math-7006-Sp21-HW2.pdf?dl=0)
+* [Homework 3](https://www.dropbox.com/s/8wrvwmp0vh348qi/Math-7006-Sp21-HW3.pdf?dl=0)
+* [Homework 4](https://www.dropbox.com/s/kvpik6mwwem44ld/Math-7006-Sp21-HW4.pdf?dl=0)
+* [Homework 5](https://www.dropbox.com/s/44gf38y4fuaagtc/Math-7006-Sp21-HW5.pdf?dl=0)
+* [Homework 6](https://www.dropbox.com/s/dipvwr8ei7xbbrn/Math-7006-Sp21-HW6.pdf?dl=0)
+
+More homework will be posted here as the course progresses in Spring 2021.
+<!-- * [Homework 7](https://www.dropbox.com/s/2imfzjvqu294fuy/Math-7006-Sp20-HW7.pdf?dl=0)
+* [Homework 8](https://www.dropbox.com/s/aitiuj0c85hyv3j/Math-7006-Sp20-HW8.pdf?dl=0) -->

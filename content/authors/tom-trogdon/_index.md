@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor of Mathematics
+role: University of Washington
 
 # external_link: "http://www.math.lsa.umich.edu/~millerpd/"
 

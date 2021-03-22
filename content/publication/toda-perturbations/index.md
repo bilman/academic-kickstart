@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On the evolution of scattering data under perturbations of the Toda lattice"
+title: "On the Evolution of Scattering Data Under Perturbations of the Toda Lattice"
 authors: ["admin","irina-nenciu"]
 date: 2016-09-01T14:31:34-04:00
 doi: "10.1016/j.physd.2016.03.017"

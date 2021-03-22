@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Mathematics
+role: South China University of Technology
 
 # external_link: "http://www.math.lsa.umich.edu/~millerpd/"
 

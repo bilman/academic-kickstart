@@ -25,7 +25,7 @@ where $r$, $K$, and $T$ are positive constants with $T<K$.
 Please see the embedded Jupyter notebook below.
 
 <iframe
-      src="http://nbviewer.jupyter.org/url/homepages.uc.edu/~bilman/216notes/216Lecture6.ipynb?flush_cache=true"
+      src="https://nbviewer.jupyter.org/github/bilman/Math216ODE/blob/master/216Lecture6.ipynb?flush_cache=true"
       width="100%"
       height="1000px"
       style="border:none;">

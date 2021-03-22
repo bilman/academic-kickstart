@@ -30,4 +30,4 @@ where $\Phi$ is the fundamental solution of Laplace's equation constructed in [L
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (24 pages).](https://www.dropbox.com/s/ucifg1mr7lubhgi/uc-7006-Lec-3-Laplaces-Equation.pdf?dl=0)
+[The notes for this lecture are available here (21 pages).](https://www.dropbox.com/s/8u0f5xu8iiqvbmi/uc-MATH7006-Lec-4-Poissons-Equation.pdf?dl=0)

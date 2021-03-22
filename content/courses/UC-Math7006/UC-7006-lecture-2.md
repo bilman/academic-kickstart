@@ -29,7 +29,7 @@ for an unknown function $u=u(x,t)$, $u \colon \mathbb{R}^n\times\mathbb{R} \to \
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (16 pages).](https://www.dropbox.com/s/8ch2mggizrs5l2r/uc-7006-Lec-2-Transport-Equation.pdf?dl=0)
+[The notes for this lecture are available here (14 pages).](https://www.dropbox.com/s/5ux5edkfurricrn/uc-MATH7006-Lec-2-Transport-Equation.pdf?dl=0)
 
 ## Homework
-[Homework 2 is posted.](https://www.dropbox.com/s/366sn86lkdkyidp/Math-7006-Sp20-HW2.pdf?dl=0)
+[Homework 2 is posted.](https://www.dropbox.com/s/5r1rknxzimqun51/Math-7006-Sp21-HW2.pdf?dl=0)

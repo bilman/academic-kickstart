@@ -6,7 +6,7 @@ summary: "Development of a robust inverse scattering transform to treat arbitrar
 authors: []
 tags: []
 categories: []
-date: 2020-05-07T20:17:42-04:00
+date: 2018-05-07T20:17:42-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,9 +19,10 @@ image:
   focal_point: ""
   preview_only: true
 
-# header:
-#   image: "img/spec-sing.gif"
-#   caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+header:
+   image: "headers/robust-ist.jpg"
+   caption: ""
+
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

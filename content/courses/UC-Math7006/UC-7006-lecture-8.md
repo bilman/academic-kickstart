@@ -35,4 +35,4 @@ We then move on to the treatment of the inhomogeneous problem and cover **Duhame
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (16 pages).](https://www.dropbox.com/s/4t05seqduxa25k2/uc-7006-Lec-8-Heat-Eqn-Basics.pdf?dl=0)
+[The notes for this lecture are available here (21 pages).](https://www.dropbox.com/s/wfgurk7jnprknfp/uc-MATH7006-Lec-8-Heat-Equation-Basics.pdf?dl=0)

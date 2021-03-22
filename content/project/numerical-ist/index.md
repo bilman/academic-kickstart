@@ -6,7 +6,7 @@ summary: "Making solutions of integrable nonlinear dispersive wave equations com
 authors: []
 tags: []
 categories: []
-date: 2020-05-07T20:21:52-04:00
+date: 2017-05-07T20:21:52-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,7 +20,7 @@ image:
   preview_only: true
 
 header:
-  image: "TodaSolution300.png"
+  image: "headers/TodaSolution300.png"
   caption: "A purely dispersive solution of the Toda lattice computed at $t=10000$."
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

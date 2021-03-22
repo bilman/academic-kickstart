@@ -35,4 +35,4 @@ We then illustrate non-uniqueness of weak solutions, state the **entropy conditi
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (44 pages).](https://www.dropbox.com/s/3b7g2by4dmyq4f8/uc-7006-Lec-17-Conservation-Laws.pdf?dl=0)
+[The notes for this lecture are available here (44 pages).](https://www.dropbox.com/s/pwioa4m1qdp53uy/uc-7006-Lec-17-Conservation-Laws.pdf?dl=0)

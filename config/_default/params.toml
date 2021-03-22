@@ -12,7 +12,7 @@
 theme = "ocean"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -71,7 +71,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
+edit_page = {repo_url = "", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -86,19 +86,19 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "524 2925CGD, 2925 Campus Green Dr", city = "Cincinnati", region = "OH", postcode = "45221", country = "United States", country_code = "US"}
+address = {street = "2815 Commons Way", city = "Cincinnati", region = "OH", postcode = "45221", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.135040", longitude = "-84.513741"}
+coordinates = {latitude = "39.132279", longitude = "-84.513030"}
 
 # Directions for visitors to locate you.
-directions = "My office is 524, located on the fifth floor."
+directions = "Office: French Hall West, 5510"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 # office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-office_hours = []
+office_hours = ["Monday 12:00-1:00 PM", "Wednesday 12:00-1:00 PM", "or by appointment." ]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -107,7 +107,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "video", icon_pack = "fas", name = "Virtual WebEx Room", link = "https://ucincinnati.webex.com/meet/bilman"},
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/denizbilman"},
+  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/denizbilman"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:denizbilman"}
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

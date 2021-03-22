@@ -25,4 +25,7 @@ by introducing **Green's functions**.
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (16 pages).](https://www.dropbox.com/s/18c375q4bi2bs67/uc-7006-Lec-6-Greens-Function-Poisson.pdf?dl=0)
+[The notes for this lecture are available here (21 pages).](https://www.dropbox.com/s/up04iepen2nan3q/uc-MATH7006-Lec-6-Greens-Functions.pdf?dl=0)
+
+## Homework
+[Homework 4 is posted.](https://www.dropbox.com/s/kvpik6mwwem44ld/Math-7006-Sp21-HW4.pdf?dl=0)

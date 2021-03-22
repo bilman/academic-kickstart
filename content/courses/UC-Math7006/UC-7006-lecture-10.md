@@ -17,7 +17,7 @@ We cover energy methods for the heat equation. In addition to a simple uniquenes
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (2 pages).](https://www.dropbox.com/s/crwpl3j9jm1ocuy/uc-7006-Lec-10-Energy-Methods-Heat-Eqn.pdf?dl=0)
+[The notes for this lecture are available here (2 pages).](https://www.dropbox.com/s/4kcns18qeb7aelt/uc-MATH7006-Lec-10-Heat-Eqn-Energy.pdf?dl=0)
 
-## Homework
-[Homework 6 is posted.](https://www.dropbox.com/s/ltgbnkodozxg8h0/Math-7006-Sp20-HW6.pdf?dl=0)
+<!-- ## Homework
+[Homework 6 is posted.](https://www.dropbox.com/s/ltgbnkodozxg8h0/Math-7006-Sp20-HW6.pdf?dl=0) -->

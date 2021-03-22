@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Large-order asymptotics for multiple-pole solitons of the focusing nonlinear Schrödinger equation"
+title: "Large-Order Asymptotics for Multiple-Pole Solitons of the Focusing Nonlinear Schrödinger Equation"
 authors: ["admin","robert-buckingham"]
 date: 2019-04-16T14:28:55-04:00
 doi: "10.1007/s00332-019-09542-7"
@@ -64,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["rogue waves"]
+projects: ["rogue-waves"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

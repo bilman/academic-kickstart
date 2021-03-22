@@ -16,7 +16,7 @@ weight: 19
 ---
 We end the semester with some **basic linear wave theory** and **solitons**.
 
-{{< figure src="/img/kdvsolitons2.png" title="" lightbox="true" >}}
+![KdV Solitons](../img/kdvsolitons2.png)
 
 We obtain linear dispersion relation for the plane wave solutions of several PDEs:
 
@@ -38,7 +38,7 @@ $$
 u_t + 6 u u_x + u_{xxx}=0.
 $$
 
-{{< figure src="/img/kdvsolitons.gif" title="" lightbox="true" >}}
+{{< figure src="../img/kdvsolitons.gif" title="" lightbox="true" >}}
 
 ## Full Set of Lecture Notes
 

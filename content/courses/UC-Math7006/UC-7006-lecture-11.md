@@ -68,4 +68,4 @@ $$
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (12 pages).](https://www.dropbox.com/s/hmgdqyprgmuuu7s/uc-7006-Lec-11-Wave-Equation-1D.pdf?dl=0)
+[The notes for this lecture are available here (12 pages).](https://www.dropbox.com/s/rftlegrr5mja2gl/uc-MATH7006-Lec-11-Wave-Eqn-Intro.pdf?dl=0)

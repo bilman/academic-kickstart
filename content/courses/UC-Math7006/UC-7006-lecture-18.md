@@ -34,5 +34,5 @@ We then give several examples with more general, piecewise-constant initial data
 
 [The notes for this lecture are available here (14 pages).](https://www.dropbox.com/s/kt7aoi04fb9xqhs/uc-7006-Lec-18-Riemann-prob-Applications.pdf?dl=0)
 
-## Homework
-[Homework 8 is posted.](https://www.dropbox.com/s/aitiuj0c85hyv3j/Math-7006-Sp20-HW8.pdf?dl=0)
+<!-- ## Homework
+[Homework 8 is posted.](https://www.dropbox.com/s/aitiuj0c85hyv3j/Math-7006-Sp20-HW8.pdf?dl=0) -->

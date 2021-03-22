@@ -34,7 +34,7 @@ F(Du,u,x) &= 0 &&\text{in}~U \\\ u&=g\quad &&\text{on}~\Gamma
 $$
 where $\Gamma \subseteq \partial U$, and $g\colon \Gamma \to \mathbb{R}$ is given. $F$ and $g$ are as smooth as we like and the boundary $\partial U$ is $C^1$. We give several examples before a theoretical treatment.
 
-{{< figure src="/img/characteristics.png" title="" lightbox="true" >}}
+![Characteristics](../img/characteristics.png)
 
 ## Full Set of Lecture Notes
 

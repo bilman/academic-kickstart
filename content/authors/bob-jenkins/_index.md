@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor of Mathematics
+role: University of Central Florida
 
 # external_link: "http://www.math.lsa.umich.edu/~millerpd/"
 

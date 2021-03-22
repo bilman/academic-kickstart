@@ -69,8 +69,8 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/bilman-cv.pdf
-
+  link: https://www.dropbox.com/s/39r1l3dm5tjek5e/bilman-cv.pdf?dl=0
+  #link: files/bilman-cv.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 

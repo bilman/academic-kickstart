@@ -26,7 +26,7 @@ summary: "[59 pages]"
 
 tags: ["Korteweg-de Vries equation","numerical inverse scattering","dispersive shock waves"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

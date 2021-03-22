@@ -33,7 +33,7 @@ We then consider the initial-value problem posed on $\mathbb{R}^n\times (0,T)$, 
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (14 pages).](https://www.dropbox.com/s/8eizmk2jm36reo8/uc-7006-Lec-9-Heat-Eqn-Properties.pdf?dl=0)
+[The notes for this lecture are available here (12 pages).](https://www.dropbox.com/s/erhiygqh4r4549u/uc-MATH7006-Lec-9-Heat-Eqn-Properties.pdf?dl=0)
 
 ## Homework
-[Homework 5 is posted.](https://www.dropbox.com/s/nit8dtvmtn64bly/Math-7006-Sp20-HW5.pdf?dl=0)
+[Homework 6 is posted.](https://www.dropbox.com/s/dipvwr8ei7xbbrn/Math-7006-Sp21-HW6.pdf?dl=0)

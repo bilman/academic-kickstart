@@ -21,4 +21,4 @@ and gives a construction of its fundamental solution.
 
 ## Full Set of Lecture Notes
 
-[The notes for this lecture are available here (14 pages).](https://www.dropbox.com/s/ucifg1mr7lubhgi/uc-7006-Lec-3-Laplaces-Equation.pdf?dl=0)
+[The notes for this lecture are available here (15 pages).](https://www.dropbox.com/s/5q7bg7h6tmkpqo6/uc-MATH7006-Lec-3-Laplaces-Equation.pdf?dl=0)

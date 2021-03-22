@@ -27,5 +27,5 @@ This lecture concludes the treatment of four important linear PDEs: the transpor
 
 [The notes for this lecture are available here (4 pages).](https://www.dropbox.com/s/kk1g5nuv86o934j/uc-7006-Lec-14-Wave-Eqn-Energy.pdf?dl=0)
 
-## Homework
-[Homework 7 is posted.](https://www.dropbox.com/s/2imfzjvqu294fuy/Math-7006-Sp20-HW7.pdf?dl=0)
+<!-- ## Homework
+[Homework 7 is posted.](https://www.dropbox.com/s/2imfzjvqu294fuy/Math-7006-Sp20-HW7.pdf?dl=0) -->

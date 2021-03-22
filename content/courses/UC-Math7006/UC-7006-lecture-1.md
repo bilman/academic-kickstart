@@ -105,9 +105,11 @@ $$
 $$
 If $u_1$ and $u_2$ are two solutions of a linear PDE, then so is any linear combination $c_1 u + c_2 u_2$, $c_1$ and $c_2$ are constants.
 
-A PDE of order $k$ is **semilinear** if it is linear in the highest-order derivatives. In other words, if it is of the form:
+We say a PDE is **nonlinear** if it is not linear.
+
+A nonlinear PDE of order $k$ is **semilinear** if it is linear in the highest-order derivatives. In other words, if it is of the form:
 $$
-\left(\sum_{|\alpha|=k} D^{\alpha} u \right) + a_0 \left(D^{k-1}u, D^{k-2}u,\ldots, Du, u, x \right)=0.
+\left(\sum_{|\alpha|=k} a_{\alpha}(x) D^{\alpha} u \right) + a_0 \left(D^{k-1}u, D^{k-2}u,\ldots, Du, u, x \right)=0.
 $$
 As you can see, the coefficients of the terms with the highest-order derivatives are allowed to depend only on $x$.
 
@@ -141,7 +143,7 @@ We impose auxiliary conditions, e.g. initial conditions and boundary conditions,
 $$
 \left\\{
   \begin{alignedat}{2}
-    u_t - u_t &= 0 \quad&& x\in\mathbb{R},~t>0\\\ u&=g \quad&& x\in\mathbb{R}
+    u_t - u_x &= 0 \quad&& x\in\mathbb{R},~t>0\\\ u&=g \quad&& x\in\mathbb{R}
   \end{alignedat}
 \right.
 $$
@@ -165,8 +167,11 @@ If a PDE problem has all of the properties 1, 2, and 3 above, we say that the pr
 
 What do we mean by solution of a PDE in general? Ideally, a solution to a $k^{\text{th}}$-order PDE is required to have continuous partial derivatives of all orders up to and including order $k$. Such a solution is called a **classical** solution. But it is often the case that one is interested in functions that satisfy a weaker formulation of the PDE, that is, solutions that are not required to be differentiable. Such solutions, loosely speaking, are called **weak solutions**, **distributional solutions**, or **integral solutions**, depending on the context of the treatment. We will give a brief introduction to such solutions and work with them when we cover shock theory for scalar conservation laws.
 
+## Full Set of Lecture Notes
+
+[The notes for this lecture are available here (12 pages).](https://www.dropbox.com/s/feaci3d2vwb8wnb/uc-MATH7006-Lec-1-Introduction.pdf?dl=0)
 
 
 
 ## Homework
-[Homework 1 is posted.](https://www.dropbox.com/s/8qq67sf0l4jyuef/Math-7006-Sp20-HW1.pdf?dl=0)
+[Homework 1 is posted.](https://www.dropbox.com/s/0h3eal4dvjvcv8r/Math-7006-Sp21-HW1.pdf?dl=0)
